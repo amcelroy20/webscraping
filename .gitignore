@@ -1,0 +1,5 @@
+.venv
+*.html*
+class_schedule.csv
+PythontoExcel.xlsx
+webscraping_movies.xlsx
